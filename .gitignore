@@ -4,6 +4,12 @@
 *.xlsx
 *.xls
 
+# Specific folders
+scripts/
+reports/
+modules/
+data/
+background_documents/
 
 # PDFs
 *.pdf
